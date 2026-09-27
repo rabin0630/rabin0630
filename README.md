@@ -4,21 +4,17 @@
 
 </div>
 
-- 国籍はフィリピンですが、小学2年生から日本に住んでいます。永住権は所有しており、日本での就労や日本語には全く不自由はありません。
-- 現職は2つあります。1つは機械設備メーカーの製造部で組立課として組立をしつつ、製造部全体をマネジメントをする製造部の主任をしているプレイングマネージャーです。
-- 2つ目は2026の1月からAI手話認識を研究開発しているスタートアップIT企業に週2でフルスタックエンジニアとして開発業務の手伝いをしています。
+- 🇵🇭 フィリピン生まれ、7歳から日本育ちです。日本語に不自由はなく、永住権も持っています。
+- 🔧 本業はメーカーで主任として製造部のプレイングマネージャーをしています。
+- 🤟 2026/01から、AI手話認識のスタートアップでフルスタックエンジニアとして開発のお手伝いを副業でやってます。
+- 💪 エンジニア歴は約1年。本業と両立しながら、空いた時間で開発と勉強を続けてきました。体力には自信があります！
+- 🎧 8年間、電子音楽の作曲をしていました。キャパ6,500人の会場で自分の作ったサウンドが流れたのが、人生で一番の自慢です！
 
-<!--
-**rabin0630/rabin0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 副業で使用したスキル
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,python,github,notion,obsidian)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## 学習中のスキル
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,python,github,notion,obsidian,aws,docker)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
