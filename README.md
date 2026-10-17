@@ -14,7 +14,7 @@
 | 日本商工会議所簿記検定試験 3級 | 合格 | 2024年06月 |
 | 日本商工会議所簿記検定試験 2級 | 合格 | 2024年10月 |
 
-2027年は、応用情報技術者試験の後継となる「プロフェッショナルデジタルスキル（システム）試験（仮称）」の取得を目指します。
+2027年は、応用情報技術者試験の後継となる資格の取得を目指します。
 
 ---
 
@@ -22,8 +22,8 @@
 
 | レベル | できること | スキル |
 |---|---|---|
-| 設計できる | クラス設計・例外処理・テスト・型ヒントまで考えて書ける | [![](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
-| 既存コードに入れる | 既存コードを読んで、機能追加やバグ修正ができる | [![](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev) |
+| 詳細設計をもとにコードを書ける | クラス設計・例外処理・テスト・型ヒントの指示をもとにAIを使用しなくても書ける | [![](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
+| コードを読める | 既存コードを読んで、どんなプログラムをするのか解読することができる | [![](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev) |
 | 調べながら作れる | ライブラリやドキュメントを調べて、目的のものを形にできる | [![](https://skillicons.dev/icons?i=react)](https://skillicons.dev) |
 | 体系的に学んだ | 講座や教材で基礎から一通り学んだ | [![](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev) |
 
